@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://andrebdosreis.github.io/FEM-NEW-qr-code-component-main/)
+- [Solution URL](https://github.com/andrebdosreis/FEM-NEW-qr-code-component-main)
 - [Live Site URL](https://andrebdosreis.github.io/FEM-NEW-qr-code-component-main/)
 
 ## My process
